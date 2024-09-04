@@ -1,0 +1,1 @@
+![Competitive Marketing Analysis PowerBI Dashboard](https://github.com/christianadebambo/competitive-marketing-analysis-powerbi/blob/d4139811cfb840553a97b80a7f2ca2bf6126ce8c/Competitive%20Marketing%20Analysis-1.png)
